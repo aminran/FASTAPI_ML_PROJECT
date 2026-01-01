@@ -1,12 +1,15 @@
 ## full stack sentiment analysis on movie-reviews dataset 
 
 ## train ML model:
- vectorizer: TF-IDF
+ vectorizer: TF-IDF  
+ 
  ML model: LogisticRegression
 
 ## frontend:
- html
- css
+ html  
+ 
+ css  
+ 
  javascript
 
 ## backend:
